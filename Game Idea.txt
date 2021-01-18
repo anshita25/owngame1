@@ -1,0 +1,20 @@
+1.What is the title of your game?
+Bollywood Trivia
+
+2.What is the goal of your game?
+To recreate a similar version of song trivia where people can play and enjoy at the same time. They can test their knowledge in a particular field,here it is bollywood,too.
+
+3.Write a brief story of your game?
+I saw and played this game known as song trivia which truly caught my interest. In this game, the host will provide his friends wih a link and then the players can give themselves a name, there are many categories in it like pop,rock songs,bollywood songs etc. Once the game is started there will be a short track which will be played and then you will be provided with 4 options, you have to guess the most probable answer related to that song and as fast as you are giving the answer,the more scores you will gain. And at last there is a leaderboard to show the players their performance. Also there are these avatars given to the players.
+
+4.Which are the playing characters of this game?
+Basically all the players who are entering in the game through the link provided by the host,are the players of this game.
+
+6.What are the non playing characters of this game?
+There are no such non playing characters in this game,its just the tracks which we are playing,the players,the scoreboard,the leaderboard and the sounds.
+
+7.Draw your imagination of this game.
+Will show it to ma'am in the class itself 
+
+8.How do you plan to make this game more engaging?
+This game can have this feature known as random multiplayer,where anyone globally can play the game without a particular link. By doing this,people will ge more curious and excited to play. Also the chat feature would surely work for them.
